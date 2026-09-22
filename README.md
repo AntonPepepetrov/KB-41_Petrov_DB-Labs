@@ -2,7 +2,7 @@
 
 мой вариант https://docs.google.com/document/d/1jjKSBunYT_9CKKW_DdAdEd7wEp8MLMVt/edit
 
-ЛАБ 1
+# ЛАБ 1
 
 модель сущность-связь
 <img width="1036" height="1067" alt="image" src="https://github.com/user-attachments/assets/13bc78f6-b8b9-428f-9e97-120a7219f127" />
