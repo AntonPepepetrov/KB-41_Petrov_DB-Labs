@@ -1,4 +1,6 @@
-# лабораторные
+# лабораторные (вариант 14)
+
+мой вариант https://docs.google.com/document/d/1jjKSBunYT_9CKKW_DdAdEd7wEp8MLMVt/edit
 
 ЛАБ 1
 
